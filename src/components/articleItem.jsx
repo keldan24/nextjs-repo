@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import articleStyles from '../styles/Article.module.css'
+import articleStyles from '../styles/article.module.css'
 
 const ArticleItem = ({ article }) => {
   return (
